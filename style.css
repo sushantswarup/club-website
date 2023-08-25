@@ -1,0 +1,59 @@
+.pic{
+    height: 10vh;
+    width: 10vh;
+
+}
+.gradient {
+    background: linear-gradient(300deg, #c8e1ea, #85c0cfb6, #b0add3);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+    font-family: 'PT Serif', serif;
+}
+
+.iitg-logo{
+    height: 12.5vh;
+  }
+ .nav-link {
+   font-size: 17px;
+  }
+
+  .slide-pic{
+    width: 100%;
+    height: 600px;
+  }
+  body{
+    font-family: 'Merriweather', serif;
+    background :linear-gradient(300deg, #f0f0f1, #9ec5cfb6, #f9f9fc);
+}
+.slider{
+    padding-top: 40px;
+    padding-bottom: 10px;
+} 
+
+.middle-logo{
+    height: 500px;
+    margin-left: 124px; 
+}
+
+.featurette-heading{
+    justify-content: center;
+}
+
+.middle-body{
+  padding-bottom: 50px;
+  padding-top: 40px;
+}
+
+.mid-first{
+    padding-left: 120px;
+    padding-top: 50px;
+}
+.end-part{
+    background:linear-gradient(300deg ,rgb(191, 159, 159), rgb(92, 92, 198), rgb(139, 190, 139));
+    margin-top: 170px;
+    padding-bottom: 0.1px;
+    padding-top: 2px;
+}
+.upcoming{
+    font-family: 'PT Serif', serif;
+}

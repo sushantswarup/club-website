@@ -1,1 +1,1 @@
-# club-website
+# ssc-iitg
